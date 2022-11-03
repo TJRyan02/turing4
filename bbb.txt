@@ -1,0 +1,4 @@
+{
+	"responseid" : "R_1DBDN2VvbD7XJPx",
+	"argument" : "I believe that President Biden has done an excellent job leading the country thus far. He has helped push forward many Democratic issues and has appropriately responded to things out of his control, such as the overturn of Roe v Wade"
+}
